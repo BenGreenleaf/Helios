@@ -1,0 +1,32 @@
+' Generated 2026-03-14T16:07:29
+' SolidWorks Global Variables
+
+"D_de_mm" = 242.43mm
+"D_di_mm" = 170mm
+"D_liner_mm" = 199.125mm
+"D_ref_mm" = 243.27mm
+"D_sn_mm" = 109.519mm
+"D_sw_hub_mm" = 27.8775mm
+"D_sw_tip_mm" = 79.65mm
+"L_dz_mm" = 248.906mm
+"L_liner_total_mm" = 626.92mm
+"L_pz_mm" = 228.67mm
+"L_sz_mm" = 149.344mm
+"SN" = 0.72716
+"d_dz_mm" = 15mm
+"d_hole_dome_mm" = 4mm
+"d_pz_mm" = 3.5mm
+"d_sz_mm" = 8.57143mm
+"dome_hole_rows" = 1
+"dome_holes_per_row" = 11
+"n_dz_per_row" = 8
+"n_dz_rows" = 1
+"n_dz_total" = 8
+"n_pz_per_row" = 14
+"n_pz_rows" = 2
+"n_pz_total" = 28
+"n_sz_per_row" = 13
+"n_sz_rows" = 1
+"n_sz_total" = 13
+"phi_overall" = 0.483959
+"phi_pz_est" = 1.2099
