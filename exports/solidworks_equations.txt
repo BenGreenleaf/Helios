@@ -1,4 +1,4 @@
-' Generated 2026-03-18T17:49:01
+' Generated 2026-03-21T17:04:48
 ' SolidWorks Global Variables
 
 "D_de_mm" = 130mm
