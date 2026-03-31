@@ -1,4 +1,4 @@
-' Generated 2026-03-21T17:04:48
+' Generated 2026-03-31T11:01:13
 ' SolidWorks Global Variables
 
 "D_de_mm" = 130mm
@@ -15,16 +15,16 @@
 "SN" = 0.777778
 "d_dz_mm" = 15mm
 "d_hole_dome_mm" = 4mm
-"d_pz_mm" = 6mm
+"d_pz_mm" = 8mm
 "d_sz_mm" = 10mm
 "dome_hole_rows" = 4
 "dome_holes_per_row" = 12
 "n_dz_per_row" = 7
 "n_dz_rows" = 1
 "n_dz_total" = 7
-"n_pz_per_row" = 10
-"n_pz_rows" = 2
-"n_pz_total" = 20
+"n_pz_per_row" = 11
+"n_pz_rows" = 1
+"n_pz_total" = 11
 "n_sz_per_row" = 12
 "n_sz_rows" = 1
 "n_sz_total" = 12
